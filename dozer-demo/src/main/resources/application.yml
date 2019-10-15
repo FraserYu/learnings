@@ -1,0 +1,2 @@
+#dozer:
+#  mapping-files: classpath:/*mapping.xml

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mappings xmlns="http://dozermapper.github.io/schema/bean-mapping"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dozermapper.github.io/schema/bean-mapping http://dozermapper.github.io/schema/bean-mapping.xsd">
+    <configuration>
+        <!-- 默认是 true，当发生转换错误时抛出异常，停止转换，这里设置成false，如果转换错误，继续转换 -->
+        <stop-on-errors>false</stop-on-errors>
+        <date-format>yyyy-MM-dd HH:mm:ss</date-format>
+    </configuration>
+</mappings>
