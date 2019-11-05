@@ -23,4 +23,6 @@ public class RgybSpringBootSampleApplicationTests {
 		greetingService.sayHello();
 	}
 
+
+
 }

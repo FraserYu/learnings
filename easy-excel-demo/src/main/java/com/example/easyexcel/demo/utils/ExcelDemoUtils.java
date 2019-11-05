@@ -2,8 +2,11 @@ package com.example.easyexcel.demo.utils;
 
 import com.alibaba.excel.context.AnalysisContext;
 import com.alibaba.excel.event.AnalysisEventListener;
+import com.alibaba.fastjson.JSON;
 import com.example.easyexcel.demo.entity.User;
+import lombok.extern.slf4j.Slf4j;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.function.Consumer;
@@ -12,6 +15,7 @@ import java.util.function.Consumer;
  * @author fraser
  * @date 2019/10/7 2:41 PM
  */
+@Slf4j
 public class ExcelDemoUtils {
 
 	/**
