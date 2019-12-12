@@ -1,20 +1,27 @@
 package com.example.unifiedreturn.config;
 
 import com.alibaba.fastjson.JSON;
+import com.example.unifiedreturn.converter.LoginUserArgumentResolver;
+import com.example.unifiedreturn.converter.StringToLocalDateTimeConverter;
 import com.example.unifiedreturn.exception.BusinessException;
 import com.example.unifiedreturn.exception.TestBean;
 import com.example.unifiedreturn.vo.CommonResult;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.MethodParameter;
+import org.springframework.format.FormatterRegistry;
 import org.springframework.http.MediaType;
 import org.springframework.http.converter.HttpMessageConverter;
 import org.springframework.http.server.ServerHttpRequest;
 import org.springframework.http.server.ServerHttpResponse;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
+import org.springframework.web.method.support.HandlerMethodArgumentResolver;
 import org.springframework.web.servlet.config.annotation.EnableWebMvc;
+import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import org.springframework.web.servlet.mvc.method.annotation.ResponseBodyAdvice;
+
+import java.util.List;
 
 /**
  * 统一返回配置
@@ -24,7 +31,7 @@ import org.springframework.web.servlet.mvc.method.annotation.ResponseBodyAdvice;
  */
 @EnableWebMvc
 @Configuration
-public class UnifiedReturnConfig {
+public class UnifiedReturnConfig implements WebMvcConfigurer {
 
 	/**
 	 * 配置 RESTful API 统一参数返回
@@ -70,5 +77,16 @@ public class UnifiedReturnConfig {
 	//	@Bean
 	public TestBean testBean() {
 		return new TestBean();
+	}
+
+
+	@Override
+	public void addFormatters(FormatterRegistry registry) {
+		registry.addConverter(new StringToLocalDateTimeConverter());
+	}
+
+	@Override
+	public void addArgumentResolvers(List<HandlerMethodArgumentResolver> resolvers) {
+		resolvers.add(new LoginUserArgumentResolver());
 	}
 }
