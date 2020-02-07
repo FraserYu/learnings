@@ -38,6 +38,9 @@
 <a href="#技术交流群">
 <img src="https://img.shields.io/badge/Chat-%E5%8A%A0%E7%BE%A4%E4%BA%A4%E6%B5%81-brightgreen.svg" alt="技术交流群">
 </a>
+<a href="#圈子">
+<img src="https://img.shields.io/badge/Social-%E5%BE%AE%E4%BF%A1%E5%9C%88%E5%AD%90-red.svg" alt="技术交流群">
+</a>
 <a href="https://segmentfault.com/u/tanrigongyibing" target="_blank">
 <img src="https://img.shields.io/badge/Follow-%E6%80%9D%E5%90%A6-green.svg" alt="思否">
 </a>
@@ -205,6 +208,7 @@
 
 
 
+
 ### 
 
 ### 技术交流群
@@ -229,7 +233,17 @@
 
 ---
 
-###
+### 圈子
+
+⭕️这是我刚刚建立的微信圈子，免费的，进来玩一玩吧
+
+![](https://cdn.jsdelivr.net/gh/FraserYu/img-host/blog-imgWechatIMG191.jpeg)
+
+
+
+---
+
+##
 
 ### 推广
 
