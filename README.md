@@ -97,7 +97,7 @@
 - [Lombok 使用教程详解](https://dayarch.top/p/lombok-usage.html)
 - [Spring 数据绑定剖析](https://dayarch.top/p/spring-data-binding-mechanism.html)
 - [在Spring Boot启动时执行代码的几种方法](https://dayarch.top/p/spring-boot-execute-on-startup.html)
-- 陆续整理中......
+- 整理ing
 
 
 
@@ -136,7 +136,7 @@
 - [Java String基础面试](https://dayarch.top/p/java-string-interview.html)
 - [Java12 Collectors.teeing 的使用详解](https://dayarch.top/p/jdk12-collectors-teeing-api-usage.html)
 - [如何设计好的Restful API](https://dayarch.top/p/restful-api-design.html)
-- 陆续整理中......
+- 整理ing
 
 
 
@@ -148,6 +148,7 @@
 - [IntelliJ IDEA HTTP Client高级使用详解](https://dayarch.top/p/http-client-advanced-usage.html)
 - [小小TODO也有大道理](https://dayarch.top/p/how-to-use-todo-feature.html)
 - [只会用 git pull ？有时候你可以尝试更优雅的处理方式](https://mp.weixin.qq.com/s/6dg3u2PkcTSQHu_3T_QYnA)
+- 整理ing
 
 
 
@@ -167,6 +168,7 @@
 
 - [跨表更新，看到自己写的SQL像个憨憨](https://dayarch.top/p/mysql-cross-table-update.html)
 - [MySQL group_concat 函数详解](https://dayarch.top/p/mysql-group-concat-function-usage.html)
+- 整理ing
 
 
 
