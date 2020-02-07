@@ -26,5 +26,8 @@ public class StartExample {
 		System.out.println("x:" + x);
 		System.out.println("y:" + y);
 		System.out.println("flag:" + flag);
+		System.out.println("子线程结束");
+
+		//optimize 将 println 改为 log 形式
 	}
 }
