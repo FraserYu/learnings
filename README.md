@@ -19,6 +19,8 @@
 - 你有一个思想，我有一个思想，我们交换后，一个人就有两个思想
 - If you can NOT explain it simply, you do NOT understand it well enough
 
+
+
 ---
 
 
@@ -28,6 +30,7 @@
 
 
 ---
+
 <p>
 <a href="#精选文章">
 <img src="https://img.shields.io/badge/%E5%96%84%E7%94%A8Ctrl+F-%E9%98%85%E8%AF%BB%E7%B2%BE%E9%80%89%E6%96%87%E7%AB%A0-orange.svg" alt="精选文章">
@@ -45,6 +48,8 @@
 <img src="https://img.shields.io/badge/Happy-%E5%BC%80%E8%BD%A6-yellow.svg" alt="开车">
 </a>
 </p>
+
+
 ---
 
 
