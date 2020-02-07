@@ -74,7 +74,7 @@
 
 
 
-#### Spring / Spring Boot + 周边
+#### 1⃣️Spring / Spring Boot + 周边
 
 - [HttpMessageConverter转换原理解析](https://dayarch.top/p/spring-boot-messageconverter.html)
 - [轻松高效玩转DTO(Data Transfer Object)](https://mp.weixin.qq.com/s/rE_cX0Z7nccY5D6z3O7mUQ)
@@ -103,7 +103,7 @@
 
 
 
-#### 并发编程
+#### 2⃣️并发编程
 
 - [并发编程之初探](https://dayarch.top/p/java-concurrency-metaphor.html)
 
@@ -127,7 +127,7 @@
 
 
 
-#### 面试常见
+#### 3⃣️面试常见
 
 - [Java equals 和 hashCode 面试那点事](https://dayarch.top/p/java-equals-hashcode.html)
 - [Maven 依赖传递性透彻理解](https://dayarch.top/p/maven-dependency-optional-transitive.html)
@@ -142,7 +142,7 @@
 
 
 
-#### 高效工作应用/工具篇
+#### 4⃣️高效工作应用/工具篇
 
 - [SDKMAN 统一灵活管理多版本Java](https://dayarch.top/p/multiple-java-management.html)
 - [IntelliJ IDEA HTTP Client高级使用详解](https://dayarch.top/p/http-client-advanced-usage.html)
@@ -153,9 +153,9 @@
 
 
 
-#### 总结/感悟
+#### 5⃣️总结/感悟
 
-##
+#
 
 - [程序猿为什么要看源码](https://mp.weixin.qq.com/s/V7h8O6pVFQ-nr_iA2SNqtw)
 - [2019归零，2020走你](https://dayarch.top/p/2019-summary.html)
@@ -165,7 +165,7 @@
 
 
 
-#### 数据库相关
+#### 6⃣️数据库相关
 
 - [跨表更新，看到自己写的SQL像个憨憨](https://dayarch.top/p/mysql-cross-table-update.html)
 - [MySQL group_concat 函数详解](https://dayarch.top/p/mysql-group-concat-function-usage.html)
