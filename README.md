@@ -38,13 +38,13 @@
 <a href="#技术交流群">
 <img src="https://img.shields.io/badge/Chat-%E5%8A%A0%E7%BE%A4%E4%BA%A4%E6%B5%81-brightgreen.svg" alt="技术交流群">
 </a>
-<a href="https://segmentfault.com/u/tanrigongyibing">
+<a href="https://segmentfault.com/u/tanrigongyibing" target="_blank">
 <img src="https://img.shields.io/badge/Follow-%E6%80%9D%E5%90%A6-green.svg" alt="思否">
 </a>
-<a href="https://juejin.im/user/5d072f9b5188257de35fd756">
+<a href="https://juejin.im/user/5d072f9b5188257de35fd756" target="_blank">
 <img src="https://img.shields.io/badge/Follow-%E6%8E%98%E9%87%91-blue.svg" alt="掘金">
 </a>
-<a href="https://openwrite.cn/">
+<a href="https://openwrite.cn/" target="_blank">
 <img src="https://img.shields.io/badge/Tool-OpenWrite-blueviolet.svg" alt="OpenWrite">
 </a>
 <a href="#开车">
@@ -74,7 +74,7 @@
 #### Spring / Spring Boot + 周边
 
 - [HttpMessageConverter转换原理解析](https://dayarch.top/p/spring-boot-messageconverter.html)
-- [轻松高效玩转DTO(Data Transfer Object)](轻松高效玩转DTO(Data Transfer Object)
+- [轻松高效玩转DTO(Data Transfer Object)](https://mp.weixin.qq.com/s/rE_cX0Z7nccY5D6z3O7mUQ)
 - [Mybatis拦截器实现数据加密与解密](https://dayarch.top/p/mybatis-interceptor-encrypt-decrypt.html)
 - [Mybatis拦截器执行过程解析](https://mp.weixin.qq.com/s/YVl20QqUHTXMubr68wXR1A)
 - [不得不知的责任链设计模式](https://mp.weixin.qq.com/s/SqIkX01JwR6QXKTa6Kqp4Q)
