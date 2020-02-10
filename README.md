@@ -135,6 +135,7 @@
 - [红黑树，史上最强动静图详解](https://dayarch.top/p/redblack-tree.html)
 - [Java String基础面试](https://dayarch.top/p/java-string-interview.html)
 - [Java12 Collectors.teeing 的使用详解](https://dayarch.top/p/jdk12-collectors-teeing-api-usage.html)
+- [Java12 新特性一览](https://dayarch.top/p/jdk12-new-feature-overview.html)
 - [如何设计好的Restful API](https://dayarch.top/p/restful-api-design.html)
 - 整理ing
 
