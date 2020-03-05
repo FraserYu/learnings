@@ -43,4 +43,6 @@ buildNumber.properties
 .mvn
 *.iml
 *.lst
+/out
+
 

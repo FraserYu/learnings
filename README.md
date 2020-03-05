@@ -121,6 +121,8 @@
 
 - [Java并发死锁解决思路](https://dayarch.top/p/java-concurrency-dead-lock.html)
 
+- [volatile和synchronized图文透彻讲解](https://dayarch.top/p/difference-between-volatile-and-synchronized-keyword.html)
+
 - 正在疯狂更新中......
 
   
@@ -161,6 +163,7 @@
 - [2019归零，2020走你](https://dayarch.top/p/2019-summary.html)
 - [读《Clean Code 代码整洁之道》之感悟](https://dayarch.top/p/book-reviews-clean-code.html)
 - [闲着无聊考个PMP玩玩](https://dayarch.top/p/pmp-certificate.html)
+- [Java后端的我在学Node.js 你敢信？](https://dayarch.top/p/start-to-learn-nodejs.html)
 
 
 
