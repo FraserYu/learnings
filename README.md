@@ -123,6 +123,10 @@
 
 - [volatile和synchronized图文透彻讲解](https://dayarch.top/p/difference-between-volatile-and-synchronized-keyword.html)
 
+- [并发编程之等待通知机制](https://dayarch.top/p/waiting-notification-mechanism.html)
+
+- [Java线程生命周期这样理解挺简单的](https://dayarch.top/p/java-thread-life-cycle.html)
+
 - 正在疯狂更新中......
 
   
