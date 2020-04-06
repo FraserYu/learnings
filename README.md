@@ -127,6 +127,8 @@
 
 - [Java线程生命周期这样理解挺简单的](https://dayarch.top/p/java-thread-life-cycle.html)
 
+- [面试问我，创建多少个线程合适？我该怎么回答](https://dayarch.top/p/how-many-threads-should-be-created.html)
+
 - 正在疯狂更新中......
 
   
