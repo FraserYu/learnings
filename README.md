@@ -170,6 +170,7 @@
 - [读《Clean Code 代码整洁之道》之感悟](https://dayarch.top/p/book-reviews-clean-code.html)
 - [闲着无聊考个PMP玩玩](https://dayarch.top/p/pmp-certificate.html)
 - [Java后端的我在学Node.js 你敢信？](https://dayarch.top/p/start-to-learn-nodejs.html)
+- [如何合理的安排日常？](https://dayarch.top/p/how-to-organize-your-day.html)
 
 
 
