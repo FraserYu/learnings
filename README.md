@@ -129,6 +129,8 @@
 
 - [面试问我，创建多少个线程合适？我该怎么回答](https://dayarch.top/p/how-many-threads-should-be-created.html)
 
+- [我会手动创建线程，为什么要使用线程池?](https://dayarch.top/p/why-we-need-to-use-threadpool.html)
+
 - 正在疯狂更新中......
 
   
