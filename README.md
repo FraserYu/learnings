@@ -131,6 +131,8 @@
 
 - [我会手动创建线程，为什么要使用线程池?](https://dayarch.top/p/why-we-need-to-use-threadpool.html)
 
+- [Java多线程中断机制](https://dayarch.top/p/java-concurrency-interrupt-mechnism.html)
+
 - 正在疯狂更新中......
 
   
@@ -159,6 +161,7 @@
 - [IntelliJ IDEA HTTP Client高级使用详解](https://dayarch.top/p/http-client-advanced-usage.html)
 - [小小TODO也有大道理](https://dayarch.top/p/how-to-use-todo-feature.html)
 - [只会用 git pull ？有时候你可以尝试更优雅的处理方式](https://mp.weixin.qq.com/s/6dg3u2PkcTSQHu_3T_QYnA)
+- [我在IntelliJ IDEA 中必有的插件和配置](https://dayarch.top/p/intellij-idea-configuration-and-plugins.html)
 - 整理ing
 
 
