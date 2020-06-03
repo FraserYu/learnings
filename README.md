@@ -133,6 +133,8 @@
 
 - [Java多线程中断机制](https://dayarch.top/p/java-concurrency-interrupt-mechnism.html)
 
+- [Java AQS队列同步器以及ReentrantLock的应用](https://dayarch.top/p/java-aqs-and-reentrantlock.html)
+
 - 正在疯狂更新中......
 
   
