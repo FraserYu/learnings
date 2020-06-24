@@ -135,6 +135,10 @@
 
 - [Java AQS队列同步器以及ReentrantLock的应用](https://dayarch.top/p/java-aqs-and-reentrantlock.html)
 
+- [Java AQS共享式获取同步状态及Semaphore的应用分析](https://dayarch.top/p/java-aqs-acquireshared-and-semaphore.html)
+
+- [搞定ReentrantReadWriteLock 几道小小数学题就够了](https://dayarch.top/p/java-reentrant-read-write-lock.html)
+
 - 正在疯狂更新中......
 
   
