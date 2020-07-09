@@ -139,6 +139,10 @@
 
 - [搞定ReentrantReadWriteLock 几道小小数学题就够了](https://dayarch.top/p/java-reentrant-read-write-lock.html)
 
+- [CountDownLatch 和 CyclicBarrier 傻傻的分不清楚？](https://dayarch.top/p/java-countdownlatch-vs-cyclicbarrier.html)
+
+- [不会用Java Future，我怀疑你泡茶没我快](https://dayarch.top/p/java-future-and-callable.html)
+
 - 正在疯狂更新中......
 
   
