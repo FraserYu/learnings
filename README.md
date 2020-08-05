@@ -77,25 +77,45 @@
 #### 1⃣️Spring / Spring Boot + 周边
 
 - [HttpMessageConverter转换原理解析](https://dayarch.top/p/spring-boot-messageconverter.html)
+
 - [轻松高效玩转DTO(Data Transfer Object)](https://mp.weixin.qq.com/s/rE_cX0Z7nccY5D6z3O7mUQ)
+
 - [Mybatis拦截器实现数据加密与解密](https://dayarch.top/p/mybatis-interceptor-encrypt-decrypt.html)
+
 - [Mybatis拦截器执行过程解析](https://mp.weixin.qq.com/s/YVl20QqUHTXMubr68wXR1A)
+
 - [不得不知的责任链设计模式](https://mp.weixin.qq.com/s/SqIkX01JwR6QXKTa6Kqp4Q)
+
 - [“犯罪心理”解读 Mybatis 拦截器](https://mp.weixin.qq.com/s/8ohtlnT1Z_O2q8I154Z3-g)
+
 - [预防XSS，这几招管用！](https://mp.weixin.qq.com/s/iK3SQjxx5dSfE0lIWyYqmA)
+
 - [面试还不知道BeanFactory和ApplicationContext的区别？](https://dayarch.top/p/difference-between-beanfactory-and-applicationcontext.html)
+
 - [Spring Bean生命周期之缘起](https://dayarch.top/p/spring-bean-lifecycle-creation.html)
+
 - [Spring Bean生命周期之缘尽](https://dayarch.top/p/spring-bean-lifecycle-destroy.html)
+
 - [Spring Aware 到底是什么？](https://dayarch.top/p/spring-aware.html)
+
 - [Spring Boot @ConfigurationProperties 注解最强使用详解](https://dayarch.top/p/spring-boot-configurationProperties-usage.html)
+
 - [@Conditional注解，Spring Boot 的灵活配置](https://dayarch.top/p/spring-boot-condition-annotation.html)
+
 - [Shiro—小而美的安全框架](https://dayarch.top/p/shiro-in-practice.html)
+
 - [Springboot返回统一JSON数据格式是怎么实现的？](https://dayarch.top/p/spring-boot-global-return.html)
+
 - [SpringBoot统一异常处理及剖析](https://dayarch.top/p/spring-boot-global-exception.html)
+
 - [EasyExcel读取Excel实际应用](https://dayarch.top/p/easyexcel-read.html)
+
 - [Spring Boot 自定义starter 全面教程](https://dayarch.top/p/spring-boot-starter-custom.html)
+
 - [Lombok 使用教程详解](https://dayarch.top/p/lombok-usage.html)
+
 - [Spring 数据绑定剖析](https://dayarch.top/p/spring-data-binding-mechanism.html)
+
 - [在Spring Boot启动时执行代码的几种方法](https://dayarch.top/p/spring-boot-execute-on-startup.html)
 - 整理ing
 
@@ -143,6 +163,10 @@
 
 - [不会用Java Future，我怀疑你泡茶没我快](https://dayarch.top/p/java-future-and-callable.html)
 
+- [有比 ReadWriteLock更快的锁？全面解析StampedLock, 了解后瞬间升级](https://mp.weixin.qq.com/s/NGtyNe_oXCoEIA9XCgLUeA)
+
+- [搞定 CompletableFuture，并发异步编程和编写串行程序还有什么区别？] (https://dayarch.top/p/java8-completablefuture-tutorial.html)
+
 - 正在疯狂更新中......
 
   
@@ -152,12 +176,21 @@
 #### 3⃣️面试常见
 
 - [Java equals 和 hashCode 面试那点事](https://dayarch.top/p/java-equals-hashcode.html)
+
+- [hashCode是根据对象内存地址生成的？](https://dayarch.top/p/out-of-memory-vs-memory-leak-and-hashcode.html)
+
 - [Maven 依赖传递性透彻理解](https://dayarch.top/p/maven-dependency-optional-transitive.html)
+
 - [双亲委派模型,大厂高频面试题，轻松搞定](https://dayarch.top/p/java-parents-delegation-model.html)
+
 - [红黑树，史上最强动静图详解](https://dayarch.top/p/redblack-tree.html)
+
 - [Java String基础面试](https://dayarch.top/p/java-string-interview.html)
+
 - [Java12 Collectors.teeing 的使用详解](https://dayarch.top/p/jdk12-collectors-teeing-api-usage.html)
+
 - [Java12 新特性一览](https://dayarch.top/p/jdk12-new-feature-overview.html)
+
 - [如何设计好的Restful API](https://dayarch.top/p/restful-api-design.html)
 - 整理ing
 
@@ -168,10 +201,17 @@
 #### 4⃣️高效工作应用/工具篇
 
 - [SDKMAN 统一灵活管理多版本Java](https://dayarch.top/p/multiple-java-management.html)
+
 - [IntelliJ IDEA HTTP Client高级使用详解](https://dayarch.top/p/http-client-advanced-usage.html)
+
 - [小小TODO也有大道理](https://dayarch.top/p/how-to-use-todo-feature.html)
+
 - [只会用 git pull ？有时候你可以尝试更优雅的处理方式](https://mp.weixin.qq.com/s/6dg3u2PkcTSQHu_3T_QYnA)
+
 - [我在IntelliJ IDEA 中必有的插件和配置](https://dayarch.top/p/intellij-idea-configuration-and-plugins.html)
+
+- [SQLECTRON-超轻量级SQL客户端](https://dayarch.top/p/SQLECTRON-sql-client.html)
+
 - 整理ing
 
 
