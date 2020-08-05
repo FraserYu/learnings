@@ -165,7 +165,7 @@
 
 - [有比 ReadWriteLock更快的锁？全面解析StampedLock, 了解后瞬间升级](https://mp.weixin.qq.com/s/NGtyNe_oXCoEIA9XCgLUeA)
 
-- [搞定 CompletableFuture，并发异步编程和编写串行程序还有什么区别？] (https://dayarch.top/p/java8-completablefuture-tutorial.html)
+- [搞定 CompletableFuture，并发异步编程和编写串行程序还有什么区别？](https://dayarch.top/p/java8-completablefuture-tutorial.html)
 
 - 正在疯狂更新中......
 
