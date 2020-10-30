@@ -167,6 +167,10 @@
 
 - [搞定 CompletableFuture，并发异步编程和编写串行程序还有什么区别？](https://dayarch.top/p/java8-completablefuture-tutorial.html)
 
+- [ExecutorService VS CompletionService](https://dayarch.top/p/executorservice-vs-completionservice.html)
+
+- [分分钟搞定Java 并发队列](https://dayarch.top/p/java-concurrency-queue.html)
+
 - 正在疯狂更新中......
 
   
@@ -212,6 +216,8 @@
 
 - [SQLECTRON-超轻量级SQL客户端](https://dayarch.top/p/SQLECTRON-sql-client.html)
 
+- [reveal-md 写出不一样的PPT](https://dayarch.top/p/reveal-md-ppt.html)
+
 - 整理ing
 
 
@@ -237,6 +243,8 @@
 - [MySQL group_concat 函数详解](https://dayarch.top/p/mysql-group-concat-function-usage.html)
 - 整理ing
 
+#### 7⃣️️AWS
+- [借助Serverless Framework玩转AWS Lambda](https://dayarch.top/p/aws-lambda-with-serverless-framework.html)
 
 
 
